@@ -13,7 +13,7 @@ HTML · CSS · JavaScript · GitHub Pages
  
 ## Live
  
-🔗 `https://tuusuario.github.io/evogym`
+🔗 `(https://nicolas-mesquiatti.github.io/EvoGym/)`
  
 ---
  
